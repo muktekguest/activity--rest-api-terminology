@@ -2,6 +2,9 @@
 
 Fork and clone this repository. Then, push to github with all bad answers deleted and only the correct answers showing.
 
+
+## Part I
+
 **1. What does it mean REST?**
 
 
@@ -80,7 +83,11 @@ _meant to list the books in a bookstore_
 
 + `GET /books/action1`
 
-**11. Uniform Interface**
+**11. What JSON does it mean?**
+
+## Part II
+
+**12. Uniform Interface**
 
 Easy-to-remember access points are important, but so is being consistent when defining them.
 
@@ -101,8 +108,6 @@ To solve this problem, you can apply the REST style to the endpoints, and thanks
 |`/getBooksImages`| Write it here. |
 |`/addCoverImage`| Write it here. |
 |`/listBookCovers`| Write it here. |
-
-**12. What JSON does it mean?**
 
 **13. Anatomy of a `REQUEST`**
 
